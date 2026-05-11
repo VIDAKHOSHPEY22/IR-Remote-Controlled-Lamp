@@ -20,7 +20,7 @@
 ✅ Arduino + IR receiver module
 
 ---
-
+### 🎥 Demo (Plz wait for loading...) 
 <div align="center">
 <img src="images/lamp.gif" alt="Lamp toggling ON/OFF with IR remote" width="500px">
 
