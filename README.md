@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💡 IR Remote  Controlled Lamp 
+# 💡 IR Remote Controlled Lamp 
 
 ## ✨ Wireless control for your moonlight lamp ✨
 
