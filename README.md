@@ -2,7 +2,7 @@
 
 # 💡 IR Remote Controlled Lamp 
 
-## ✨ Wireless control for your moonlight lamp ✨
+## ✨ Wireless control for your moonlight lamp  ✨
 
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://arduino.cc)
 [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
